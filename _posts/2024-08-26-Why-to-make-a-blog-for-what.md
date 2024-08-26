@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Why to make a blog? For what?"
-date: 2024-08-26
+date: 2024-08-26 10:00:00 +0000
 categories: [Personal]
-tags: [Introduction, FirstPost]
 ---
+
 
 # Welcome to My Blog!
 
