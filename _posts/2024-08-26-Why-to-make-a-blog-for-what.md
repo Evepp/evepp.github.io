@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Why to make a blog? For what?"
-date: 2024-08-26 10:00:00 +0000
-categories: [Personal]
+title: "Why to Make a Blog: For What?"
+date: 2024-08-26
+categories: blog
 ---
 
 
