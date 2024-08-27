@@ -1,5 +1,11 @@
 # _config.yml
 
+# Navigation links for the top bar
+header_pages:
+  - index.md
+  - about.md
+  - category/posts.md
+
 # Site settings
 title: "Evelyn Pomasqui"
 description: "Some friends call me 'the eternal student of the universe'—a fancy way of saying I'm always learning or striving to learn something new. In other words, I'm a knowledge seeker who eagerly embraces any opportunity to dive into new insights."
