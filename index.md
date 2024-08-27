@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Welcome to My Blog
-description: A place where I share my thoughts and projects.
 ---
 
 # Welcome to My Blog!
@@ -19,7 +18,4 @@ Feel free to browse my [latest posts]({{ site.baseurl }}/category/blog/).
 
 ## About Me
 
-I am a knowledge seeker and lifelong learner. This blog will serve as a record of my learning journeys and a guide for those looking to develop new skills.
-
-Thanks for visiting!
 
