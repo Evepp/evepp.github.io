@@ -1,10 +1,62 @@
 # _config.yml
 
 # Site settings
-title: Evelyn Pomasqui
-description: Some friends call me "the eternal student of the universe"—a fancy way of saying I'm always learning or striving to learn something new. In other words, I'm a knowledge seeker who eagerly embraces any opportunity to dive into new insights.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "evepp.github.io" # the base hostname & protocol for your site
+title: "Evelyn Pomasqui"
+description: "Some friends call me 'the eternal student of the universe'—a fancy way of saying I'm always learning or striving to learn something new. In other words, I'm a knowledge seeker who eagerly embraces any opportunity to dive into new insights."
+baseurl: "" 
+url: "https://evepp.github.io" 
 
 # Build settings
 theme: minima
+
+# Collections settings (optional, if you have collections like 'projects', 'notes', etc.)
+collections:
+  posts:
+    output: true
+    permalink: /:categories/:year/:month/:day/:title/
+
+# Markdown settings (optional, to ensure proper rendering)
+markdown: kramdown
+highlighter: rouge
+
+# Plugins (optional, for extended functionality)
+plugins:
+  - jekyll-feed # Provides RSS feeds for your posts
+
+# Permalinks settings (optional, for custom URLs)
+permalink: /:categories/:year/:month/:day/:title/
+
+# Exclude files from build (optional)
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - .jekyll-cache/
+  - .jekyll-metadata
+
+# Include additional files or folders (optional)
+include:
+  - _pages
+  - _posts
+
+# Pagination (optional, if you want to paginate your blog posts)
+paginate: 5
+paginate_path: "/page:num/"
+
+# Minima theme configuration (optional, to customize theme)
+minima:
+  social_links:
+    github: https://github.com/evepp
+    linkedin: https://www.linkedin.com/in/evelyn-pomasqui/
+
+# Enable GitHub Pages build settings (optional, if using GitHub Pages)
+github:
+  is_project_page: true
+
+# Comments or Disqus configuration (optional, for enabling comments)
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "your-disqus-shortname"
+
