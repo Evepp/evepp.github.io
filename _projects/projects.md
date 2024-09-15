@@ -1,9 +1,12 @@
 ---
 layout: page
-title: "Project Title"
-date: YYYY-MM-DD
-category: project
+title: "My Projects"
+permalink: /projects/
 ---
 
-Here you can describe your project, its goals, advancements, and summaries.
+## Current Projects
 
+{% for project in site.projects %}
+  ### {{ project.title }}
+  {{ project.excerpt }}
+{% endfor %}
