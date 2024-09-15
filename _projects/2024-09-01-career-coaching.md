@@ -1,6 +1,5 @@
 ---
-layout: page
-title: "Career Coaching for societal needs."
+title: "Career Coaching"
 date: 2024-09-01
 category: project
 ---
