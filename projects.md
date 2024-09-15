@@ -1,18 +1,12 @@
 ---
-layout: page
-title: "Projects"
+layout: default
+title: "My Projects"
 permalink: /projects/
 ---
 
-# My Projects
+## Current Projects
 
-Here are the projects I'm currently working on:
-
-<ul>
-  {% for project in site.projects %}
-    <li>
-      <a href="{{ project.url | relative_url }}">{{ project.title }}</a>
-      <span class="post-date">{{ project.date | date: "%B %d, %Y" }}</span>
-    </li>
-  {% endfor %}
-</ul>
+{% for project in site.projects %}
+  ### {{ project.title }}
+  {{ project.excerpt }}
+{% endfor %}
