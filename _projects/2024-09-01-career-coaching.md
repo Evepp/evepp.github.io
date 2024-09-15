@@ -2,6 +2,7 @@
 title: "Career Coaching"
 date: 2024-09-01
 category: project
+layout: project
 ---
 
 This projects aims to answer the following questions: 
