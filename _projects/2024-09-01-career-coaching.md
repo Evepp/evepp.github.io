@@ -9,9 +9,9 @@ An increasing interest in becoming a doctor has been prevalent in many cultures,
 
 This project aims to answer the following questions:
 
-    What are the current (2024) and future societal needs of Ecuadorian society?
-    What cultural shifts are preventing students from identifying their niche?
-    What misconceptions do students have about career prospects?
-    How can we better identify the talents and interests of high school and university students in specific areas?
+- What are the current (2024) and future societal needs of Ecuadorian society?
+- What cultural shifts are preventing students from identifying their niche?
+- What misconceptions do students have about career prospects?
+- How can we better identify the talents and interests of high school and university students in specific areas?
 
 This project aligns with my volunteering work, where I teach online in high schools and universities in Ecuador.
