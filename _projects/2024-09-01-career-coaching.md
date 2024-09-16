@@ -5,7 +5,7 @@ category: project
 layout: project
 ---
 
-An increasing interest in becoming a doctor has been prevalent in many cultures, and this is also true in Ecuador. However, there is an alarming issue of unemployability in this field due to oversaturation in certain areas. While medicine may seem to offer high reputation or salary, in reality, some areas are not as in demand, which could divert students from achieving success in other potential fields.
+An increasing interest in becoming a doctor has been prevalent in many cultures, and this is also true in Ecuador. However, there is an alarming issue of unemployability in this field due to oversaturation in certain areas such as medicine and law [Rosero,2024](https://www.extra.ec/noticia/actualidad/preocupa-sobrepoblacion-medicos-generales-ecuador-doble-necesario-107964.html). While medicine may seem to offer high reputation or salary, in reality, some areas are not as in demand, which could divert students from achieving success in other potential fields. 
 
 This project aims to answer the following questions:
 
