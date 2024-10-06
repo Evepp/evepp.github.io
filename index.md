@@ -5,12 +5,12 @@ title: Welcome to My Blog
 
 # Welcome to My Blog!
 
-Hello! I'm Evelyn Pomasqui, and this is my personal blog. Here, I will share:
+Hello! I'm Evelyn Pomasqui, and this is my personal blog. Here, I will share mainly about Cognitive Science, but also:
 
-- Learning experiences to guide you
+- Learning experiences to guide you towards adquiring skills 
 - Recent readings
 - Research projects
-- Important concepts in human behavior, theory construction, history of thought, data analytics, and a bit about leadership and productivity development
+- Important concepts in Cognitive Science as interdisciplinary I include several sections(AI and Computational Modelling, Psychology, Neuroscience, Philosophy of Mind, Linguistics, Behavioral Economics)
 
 
 ## My Projects
