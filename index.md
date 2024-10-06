@@ -10,7 +10,7 @@ Hello! I’m Evelyn Pomasqui, and this is my personal blog. Here, I will mainly 
 - Learning experiences to guide you towards acquiring skills
 - Recent readings
 - Research projects
-- Important concepts in Cognitive Science. As interdisciplinary, I include several sections: (AI and Computational Modeling, Psychology, Neuroscience, Philosophy of Mind, Linguistics, Behavioral Economics).
+- Important concepts in Cognitive Science. As interdisciplinary, I include several sections: (AI and Computational Modeling, Anthropology, Psychology, Neuroscience, Philosophy of Mind, Linguistics, Behavioral Economics).
 
 ## My Projects
 
