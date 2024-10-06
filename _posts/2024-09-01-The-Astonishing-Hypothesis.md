@@ -1,3 +1,11 @@
+---
+layout: post
+title: "The Astonishing Hypothesis"
+date: 2024-10-06
+categories: blog, philosophy of mind
+---
+
+
 In September 1848, an accident in Vermont involving Phineas Gage, a railroad construction foreman, became a key case in behavior analysis.
 
 The Incident: An iron rod accidentally pierced Gage's skull. Although he physically recovered and retained his intellectual abilities, his behavior changed dramatically.
