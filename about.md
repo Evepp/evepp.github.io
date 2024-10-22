@@ -3,7 +3,7 @@ layout: page
 title: "About Me"
 permalink: /about/
 ---
-Hello! I'm Evelyn Pomasqui, a lifelong learner and knowledge seeker. Feel free to browse my latest posts and learn along with me!
+Hello! I'm Evelyn Penafiel, a lifelong learner and knowledge seeker. Feel free to browse my latest posts and learn along with me!
 
 I am passionate about cognitive sciences, specifically mathematics, psychology, AI, and Philosophy of Mind.
 
