@@ -5,7 +5,7 @@ title: Welcome to My Blog
 
 # Welcome to My Blog!
 
-Hello! I’m Evelyn Pomasqui, and this is my personal blog. Here, I share my passion for Cognitive Science and interdisiplinary approaches:
+Hello! I’m Evelyn Penafiel, and this is my personal blog. Here, I share my passion for Cognitive Science and interdisiplinary approaches:
 
 - Learning experiences to guide you towards acquiring skills
 - Recent readings
